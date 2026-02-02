@@ -38,7 +38,7 @@ print(message.lower())
 
 # email = '<EMAIL>'
 # print(email[5])
-# # print(email[include:exclude])
+# print(email[include:exclude])
 # print(email[1:-4])
 # print(email[2:5])
 # print(email[-4])
